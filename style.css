@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --primary-color: #000;
+  --secondary-color: #fff;
+  --tertiary-color: #000; /* black */
+  --quaternary-color: #fff; /* white */
+  --primary-color: #000; /* black */
+  --secondary-color: #fff; /* white */
+  --tertiary-color: #000; /* black */
+  --quaternary-color: #fff; /* white */
+}
